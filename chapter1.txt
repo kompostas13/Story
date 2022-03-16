@@ -1,1 +1,2 @@
-Hello my friend
+hi
+Added something in *something-new* branch
